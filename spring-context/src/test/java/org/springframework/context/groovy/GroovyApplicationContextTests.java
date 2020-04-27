@@ -19,7 +19,6 @@ package org.springframework.context.groovy;
 import org.junit.Test;
 
 import org.springframework.beans.factory.parsing.BeanDefinitionParsingException;
-import org.springframework.context.support.GenericGroovyApplicationContext;
 
 import static org.junit.Assert.*;
 

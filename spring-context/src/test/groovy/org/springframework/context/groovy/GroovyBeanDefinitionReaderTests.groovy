@@ -23,7 +23,7 @@ import org.springframework.beans.factory.ObjectFactory
 import org.springframework.beans.factory.config.Scope
 import org.springframework.beans.factory.groovy.GroovyBeanDefinitionReader
 import org.springframework.context.support.GenericApplicationContext
-import org.springframework.context.support.GenericGroovyApplicationContext
+
 import org.springframework.stereotype.Component
 
 import static groovy.test.GroovyAssert.*
